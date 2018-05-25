@@ -16,3 +16,4 @@ jobs:
           - ~/.phpenv/versions/7.1/bin/phpunit --version
           - ~/.phpenv/versions/7.2/bin/php -v
           - ~/.phpenv/versions/7.2/bin/phpunit --version
+          - php --version
